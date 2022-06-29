@@ -1,0 +1,2 @@
+filtered and populated platform endpoint = http://localhost:1337/api/playstations?filters[try][level][$eq]=1&filters[try][maxUpgrade][$eq]=4&populate=*
+same but with level between two values = http://localhost:1337/api/playstations?filters[try][level][$between][0]=1&filters[try][level][$between][1]=5&filters[try][maxUpgrade][$eq]=4&populate=*

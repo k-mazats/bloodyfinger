@@ -1,0 +1,503 @@
+[
+	{ "name": "Abandoned Cave", "underground": false, "endgame": false },
+	{ "name": "Abandoned Coffin", "underground": false, "endgame": false },
+	{ "name": "Abductor Virgin", "underground": false, "endgame": false },
+	{ "name": "Academy Crystal Cave", "underground": false, "endgame": false },
+	{ "name": "Academy Gate Town", "underground": false, "endgame": false },
+	{ "name": "Aeonia Swamp Shore", "underground": false, "endgame": false },
+	{ "name": "Agheel Lake North", "underground": false, "endgame": false },
+	{ "name": "Agheel Lake South", "underground": false, "endgame": false },
+	{
+		"name": "Ailing Village Outskirts",
+		"underground": false,
+		"endgame": false
+	},
+	{ "name": "Altar South", "underground": false, "endgame": false },
+	{ "name": "Altus Highway Junction", "underground": false, "endgame": false },
+	{ "name": "Altus Plateau", "underground": false, "endgame": false },
+	{ "name": "Altus Tunnel", "underground": false, "endgame": false },
+	{
+		"name": "Ancient Snow Valley Ruins",
+		"underground": false,
+		"endgame": false
+	},
+	{ "name": "Apostate Derelict", "underground": false, "endgame": false },
+	{
+		"name": "Artist's Shack (Limgrave)",
+		"underground": false,
+		"endgame": false
+	},
+	{
+		"name": "Artist's Shack (Liurnia of the Lakes)",
+		"underground": false,
+		"endgame": false
+	},
+	{
+		"name": "Astray from Caelid Highway North",
+		"underground": false,
+		"endgame": false
+	},
+	{ "name": "Audience Pathway", "underground": false, "endgame": false },
+	{ "name": "Auriza Hero's Grave", "underground": false, "endgame": false },
+	{ "name": "Auriza Side Tomb", "underground": false, "endgame": false },
+	{ "name": "Avenue Balcony", "underground": false, "endgame": false },
+	{ "name": "Behind Caria Manor", "underground": false, "endgame": false },
+	{ "name": "Behind the Castle", "underground": false, "endgame": false },
+	{ "name": "Bellum Church", "underground": false, "endgame": false },
+	{
+		"name": "Beside the Crater-Pocked Glade",
+		"underground": false,
+		"endgame": false
+	},
+	{ "name": "Beside the Great Bridge", "underground": false, "endgame": false },
+	{ "name": "Beside the Rampart Gaol", "underground": false, "endgame": false },
+	{ "name": "Bestial Sanctum", "underground": false, "endgame": false },
+	{ "name": "Black Knife Catacombs", "underground": false, "endgame": false },
+	{ "name": "Boilprawn Shack", "underground": false, "endgame": false },
+	{ "name": "Bower of Bounty", "underground": false, "endgame": false },
+	{ "name": "Bridge of Iniquity", "underground": false, "endgame": false },
+	{ "name": "Bridge of Sacrifice", "underground": false, "endgame": false },
+	{ "name": "Caelem Ruins", "underground": false, "endgame": false },
+	{ "name": "Caelid Catacombs", "underground": false, "endgame": false },
+	{ "name": "Caelid Highway South", "underground": false, "endgame": false },
+	{ "name": "Capital Rampart", "underground": false, "endgame": false },
+	{ "name": "Castle Morne Lift", "underground": false, "endgame": false },
+	{ "name": "Castle Morne Rampart", "underground": false, "endgame": false },
+	{ "name": "Castle Sol Main Gate", "underground": false, "endgame": false },
+	{ "name": "Castleward Tunnel", "underground": false, "endgame": false },
+	{
+		"name": "Cathedral of Dragon Communion",
+		"underground": false,
+		"endgame": false
+	},
+	{
+		"name": "Cathedral of Manus Celes",
+		"underground": false,
+		"endgame": false
+	},
+	{
+		"name": "Cathedral of the Forsaken",
+		"underground": false,
+		"endgame": false
+	},
+	{ "name": "Cave of Knowledge", "underground": false, "endgame": false },
+	{ "name": "Cave of the Forlorn", "underground": false, "endgame": false },
+	{ "name": "Chair-Crypt of Sellia", "underground": false, "endgame": false },
+	{
+		"name": "Chamber Outside the Plaza",
+		"underground": false,
+		"endgame": false
+	},
+	{
+		"name": "Church of Dragon Communion",
+		"underground": false,
+		"endgame": false
+	},
+	{ "name": "Church of Elleh", "underground": false, "endgame": false },
+	{ "name": "Church of Inhibition", "underground": false, "endgame": false },
+	{ "name": "Church of Pilgrimage", "underground": false, "endgame": false },
+	{ "name": "Church of Repose", "underground": false, "endgame": false },
+	{ "name": "Church of the Cuckoo", "underground": false, "endgame": false },
+	{ "name": "Church of the Eclipse", "underground": false, "endgame": false },
+	{ "name": "Church of the Plague", "underground": false, "endgame": false },
+	{ "name": "Church of Vows", "underground": false, "endgame": false },
+	{ "name": "Cliffbottom Catacombs", "underground": false, "endgame": false },
+	{ "name": "Coastal Cave", "underground": false, "endgame": false },
+	{ "name": "Consecrated Snowfield", "underground": false, "endgame": false },
+	{
+		"name": "Consecrated Snowfield Catacombs",
+		"underground": false,
+		"endgame": false
+	},
+	{ "name": "Converted Tower", "underground": false, "endgame": false },
+	{ "name": "Craftsman's Shack", "underground": false, "endgame": false },
+	{ "name": "Crumbling Beast Grave", "underground": false, "endgame": false },
+	{
+		"name": "Crumbling Beast Grave Depths",
+		"underground": false,
+		"endgame": false
+	},
+	{ "name": "Crystalline Woods", "underground": false, "endgame": false },
+	{ "name": "Deathtouched Catacombs", "underground": false, "endgame": false },
+	{ "name": "Deep Siofra Well", "underground": false, "endgame": false },
+	{ "name": "Divine Bridge", "underground": false, "endgame": false },
+	{
+		"name": "Divine Tower of Caelid: Basement",
+		"underground": false,
+		"endgame": false
+	},
+	{
+		"name": "Divine Tower of Caelid: Center",
+		"underground": false,
+		"endgame": false
+	},
+	{
+		"name": "Divine Tower of East Altus",
+		"underground": false,
+		"endgame": false
+	},
+	{
+		"name": "Divine Tower of East Altus: Gate",
+		"underground": false,
+		"endgame": false
+	},
+	{
+		"name": "Divine Tower of Limgrave",
+		"underground": false,
+		"endgame": false
+	},
+	{ "name": "Divine Tower of Liurnia", "underground": false, "endgame": false },
+	{
+		"name": "Divine Tower of West Altus",
+		"underground": false,
+		"endgame": false
+	},
+	{
+		"name": "Divine Tower of West Altus Gate",
+		"underground": false,
+		"endgame": false
+	},
+	{ "name": "Dragon Temple", "underground": false, "endgame": false },
+	{ "name": "Dragon Temple Lift", "underground": false, "endgame": false },
+	{ "name": "Dragon Temple Rooftop", "underground": false, "endgame": false },
+	{ "name": "Dragon Temple Transept", "underground": false, "endgame": false },
+	{ "name": "Dragonbarrow Cave", "underground": false, "endgame": false },
+	{ "name": "Dragonbarrow Fork", "underground": false, "endgame": false },
+	{ "name": "Dragonbarrow West", "underground": false, "endgame": false },
+	{ "name": "Drainage Channel", "underground": false, "endgame": false },
+	{ "name": "Earthbore Cave", "underground": false, "endgame": false },
+	{ "name": "East Capital Rampart", "underground": false, "endgame": false },
+	{
+		"name": "East Gate Bridge Trestle",
+		"underground": false,
+		"endgame": false
+	},
+	{ "name": "East Raya Lucaria Gate", "underground": false, "endgame": false },
+	{
+		"name": "Eastern Liurnia Lake Shore",
+		"underground": false,
+		"endgame": false
+	},
+	{ "name": "Eastern Tableland", "underground": false, "endgame": false },
+	{ "name": "Elphael Inner Wall", "underground": false, "endgame": false },
+	{ "name": "Erdtree-Gazing Hill", "underground": false, "endgame": false },
+	{
+		"name": "Fallen Ruins of the Lakes",
+		"underground": false,
+		"endgame": false
+	},
+	{ "name": "Farum Greatbridge", "underground": false, "endgame": false },
+	{ "name": "First Church of Marika", "underground": false, "endgame": false },
+	{
+		"name": "First Mt. Gelmir Campsite",
+		"underground": false,
+		"endgame": false
+	},
+	{ "name": "Folly on the Lake", "underground": false, "endgame": false },
+	{ "name": "Foot of the Forge", "underground": false, "endgame": false },
+	{
+		"name": "Foot of the Four Belfries",
+		"underground": false,
+		"endgame": false
+	},
+	{ "name": "Forbidden Lands", "underground": false, "endgame": false },
+	{
+		"name": "Forest-Spanning Greatbridge",
+		"underground": false,
+		"endgame": false
+	},
+	{ "name": "Forge of the Giants", "underground": false, "endgame": false },
+	{ "name": "Forsaken Depths", "underground": false, "endgame": false },
+	{ "name": "Fort Faroth", "underground": false, "endgame": false },
+	{ "name": "Fort Gael North Site", "underground": false, "endgame": false },
+	{ "name": "Fort Haight West", "underground": false, "endgame": false },
+	{
+		"name": "Fortified Manor, First Floor",
+		"underground": false,
+		"endgame": false
+	},
+	{ "name": "Fourth Church of Marika", "underground": false, "endgame": false },
+	{ "name": "Freezing Lake", "underground": false, "endgame": false },
+	{
+		"name": "Frenzied Flame Proscription",
+		"underground": false,
+		"endgame": false
+	},
+	{
+		"name": "Frenzied Flame Village Outskirts",
+		"underground": false,
+		"endgame": false
+	},
+	{ "name": "Gael Tunnel", "underground": false, "endgame": false },
+	{ "name": "Gaol Cave", "underground": false, "endgame": false },
+	{ "name": "Gate Town Bridge", "underground": false, "endgame": false },
+	{ "name": "Gate Town North", "underground": false, "endgame": false },
+	{ "name": "Gatefront Ruins", "underground": false, "endgame": false },
+	{ "name": "Gateside Chamber", "underground": false, "endgame": false },
+	{ "name": "Gelmir Hero's Grave", "underground": false, "endgame": false },
+	{
+		"name": "Giant's Mountaintop Catacombs",
+		"underground": false,
+		"endgame": false
+	},
+	{
+		"name": "Giant-Conquering Hero's Grave",
+		"underground": false,
+		"endgame": false
+	},
+	{ "name": "Giants Gravepost", "underground": false, "endgame": false },
+	{ "name": "Grand Lift of Dectus", "underground": false, "endgame": false },
+	{ "name": "Grand Lift of Rold", "underground": false, "endgame": false },
+	{ "name": "Groveside Cave", "underground": false, "endgame": false },
+	{ "name": "Guest Hall", "underground": false, "endgame": false },
+	{ "name": "Haligtree Canopy", "underground": false, "endgame": false },
+	{ "name": "Haligtree Roots", "underground": false, "endgame": false },
+	{ "name": "Haligtree Town", "underground": false, "endgame": false },
+	{ "name": "Haligtree Town Plaza", "underground": false, "endgame": false },
+	{ "name": "Heart of Aeonia", "underground": false, "endgame": false },
+	{ "name": "Hermit Merchant's Shack", "underground": false, "endgame": false },
+	{
+		"name": "Hidden Path to the Haligtree",
+		"underground": false,
+		"endgame": false
+	},
+	{ "name": "Highroad Cave Site", "underground": false, "endgame": false },
+	{ "name": "Impaler's Catacombs", "underground": false, "endgame": false },
+	{ "name": "Impassable Greatbridge", "underground": false, "endgame": false },
+	{ "name": "Inner Aeonia", "underground": false, "endgame": false },
+	{
+		"name": "Inner Consecrated Snowfield",
+		"underground": false,
+		"endgame": false
+	},
+	{ "name": "Isolated Divine Tower", "underground": false, "endgame": false },
+	{
+		"name": "Isolated Merchant's Shack (Dragonbarrow)",
+		"underground": false,
+		"endgame": false
+	},
+	{
+		"name": "Isolated Merchant's Shack (Weeping Peninsula)",
+		"underground": false
+	},
+	{ "name": "Jarburg", "underground": false, "endgame": false },
+	{ "name": "Lake-Facing Cliffs", "underground": false, "endgame": false },
+	{ "name": "Lakeside Crystal Cave", "underground": false, "endgame": false },
+	{ "name": "Laskyar Ruins", "underground": false, "endgame": false },
+	{ "name": "Lenne's Rise.", "underground": false, "endgame": false },
+	{ "name": "Leyndell Catacombs", "underground": false, "endgame": false },
+	{ "name": "Liftside Chamber", "underground": false, "endgame": false },
+	{ "name": "Limgrave Tower Bridge", "underground": false, "endgame": false },
+	{ "name": "Limgrave Tunnels", "underground": false, "endgame": false },
+	{ "name": "Liurnia Highway North", "underground": false, "endgame": false },
+	{ "name": "Liurnia Highway South", "underground": false, "endgame": false },
+	{ "name": "Liurnia Lake Shore", "underground": false, "endgame": false },
+	{ "name": "Liurnia Tower Bridge", "underground": false, "endgame": false },
+	{ "name": "Lower Capital Church", "underground": false, "endgame": false },
+	{ "name": "Main Academy Gate", "underground": false, "endgame": false },
+	{ "name": "Main Caria Manor Gate", "underground": false, "endgame": false },
+	{ "name": "Manor Lower Level", "underground": false, "endgame": false },
+	{ "name": "Manor Upper Level", "underground": false, "endgame": false },
+	{ "name": "Mausoleum Compound", "underground": false, "endgame": false },
+	{ "name": "Minor Erdtree Catacombs", "underground": false, "endgame": false },
+	{ "name": "Minor Erdtree Church", "underground": false, "endgame": false },
+	{ "name": "Mistwood Outskirts", "underground": false, "endgame": false },
+	{ "name": "Moonlight Altar", "underground": false, "endgame": false },
+	{ "name": "Morne Tunnel", "underground": false, "endgame": false },
+	{ "name": "Murkwater Catacombs", "underground": false, "endgame": false },
+	{ "name": "Murkwater Cave", "underground": false, "endgame": false },
+	{ "name": "Murkwater Coast", "underground": false, "endgame": false },
+	{
+		"name": "Ninth Mt. Gelmir Campsite",
+		"underground": false,
+		"endgame": false
+	},
+	{
+		"name": "Northern Liurnia Lake Shore",
+		"underground": false,
+		"endgame": false
+	},
+	{ "name": "Old Altus Tunnel", "underground": false, "endgame": false },
+	{ "name": "Ordina, Liturgical Town", "underground": false, "endgame": false },
+	{ "name": "Outer Wall Battleground", "underground": false, "endgame": false },
+	{ "name": "Outer Wall Phantom Tree", "underground": false, "endgame": false },
+	{ "name": "Perfumer's Grotto", "underground": false, "endgame": false },
+	{ "name": "Prayer Room", "underground": false, "endgame": false },
+	{ "name": "Primeval Sorcerer Azur", "underground": false, "endgame": false },
+	{ "name": "Prison Town Church", "underground": false, "endgame": false },
+	{ "name": "Queen's Bedchamber", "underground": false, "endgame": false },
+	{ "name": "Rampart Tower", "underground": false, "endgame": false },
+	{ "name": "Rampartside Path", "underground": false, "endgame": false },
+	{ "name": "Ranni's Chamber", "underground": false, "endgame": false },
+	{ "name": "Ranni's Rise", "underground": false, "endgame": false },
+	{ "name": "Ravine-Veiled Village", "underground": false, "endgame": false },
+	{
+		"name": "Raya Lucaria Crystal Tunnel",
+		"underground": false,
+		"endgame": false
+	},
+	{
+		"name": "Rear Gael Tunnel Entrance",
+		"underground": false,
+		"endgame": false
+	},
+	{ "name": "Revenger's Shack", "underground": false, "endgame": false },
+	{ "name": "Road of Iniquity", "underground": false, "endgame": false },
+	{
+		"name": "Road of Iniquity Side Path",
+		"underground": false,
+		"endgame": false
+	},
+	{ "name": "Road to the Manor", "underground": false, "endgame": false },
+	{ "name": "Road's End Catacombs", "underground": false, "endgame": false },
+	{ "name": "Rotview Balcony", "underground": false, "endgame": false },
+	{
+		"name": "Royal Moongazing Grounds",
+		"underground": false,
+		"endgame": false
+	},
+	{ "name": "Ruin-Strewn Precipice", "underground": false, "endgame": false },
+	{
+		"name": "Ruin-Strewn Precipice Overlook",
+		"underground": false,
+		"endgame": false
+	},
+	{ "name": "Ruined Labyrinth", "underground": false, "endgame": false },
+
+	{ "name": "Sage's Cave", "underground": false, "endgame": false },
+	{ "name": "Sainted Hero's Grave", "underground": false, "endgame": false },
+	{ "name": "Saintsbridge", "underground": false, "endgame": false },
+	{ "name": "Scenic Isle", "underground": false, "endgame": false },
+	{ "name": "Schoolhouse Classroom", "underground": false, "endgame": false },
+	{ "name": "Sealed Tunnel", "underground": false, "endgame": false },
+	{ "name": "Seaside Ruins", "underground": false, "endgame": false },
+	{ "name": "Secluded Cell", "underground": false, "endgame": false },
+	{ "name": "Seethewater Cave", "underground": false, "endgame": false },
+	{ "name": "Seethewater River", "underground": false, "endgame": false },
+	{ "name": "Seethewater Terminus", "underground": false, "endgame": false },
+	{ "name": "Sellia Backstreets", "underground": false, "endgame": false },
+	{ "name": "Sellia Crystal Tunnel", "underground": false, "endgame": false },
+	{ "name": "Sellia Hideaway", "underground": false, "endgame": false },
+	{ "name": "Sellia Under-Stair", "underground": false, "endgame": false },
+	{
+		"name": "Shaded Castle Inner Gate",
+		"underground": false,
+		"endgame": false
+	},
+	{ "name": "Shaded Castle Ramparts", "underground": false, "endgame": false },
+	{ "name": "Slumbering Wolf's Shack", "underground": false, "endgame": false },
+	{ "name": "Smoldering Church", "underground": false, "endgame": false },
+	{ "name": "Smoldering Wall", "underground": false, "endgame": false },
+	{
+		"name": "Snow Valley Ruins Overlook",
+		"underground": false,
+		"endgame": false
+	},
+	{ "name": "Sorcerer's Isle", "underground": false, "endgame": false },
+	{
+		"name": "South of the Lookout Tower",
+		"underground": false,
+		"endgame": false
+	},
+	{ "name": "South Raya Lucaria Gate", "underground": false, "endgame": false },
+	{
+		"name": "Southern Aeonia Swamp Bank",
+		"underground": false,
+		"endgame": false
+	},
+	{ "name": "Spiritcaller Cave", "underground": false, "endgame": false },
+	{ "name": "Stillwater Cave", "underground": false, "endgame": false },
+	{ "name": "Stormfoot Catacombs", "underground": false, "endgame": false },
+	{ "name": "Stormhill Shack", "underground": false, "endgame": false },
+	{ "name": "Stormveil Cliffside", "underground": false, "endgame": false },
+	{ "name": "Stormveil Main Gate", "underground": false, "endgame": false },
+	{ "name": "Stranded Graveyard", "underground": false, "endgame": false },
+	{ "name": "Study Hall Entrance", "underground": false, "endgame": false },
+	{
+		"name": "Subterranean Inquisition Chamber",
+		"underground": false,
+		"endgame": false
+	},
+	{
+		"name": "Summonwater Village Outskirts",
+		"underground": false,
+		"endgame": false
+	},
+	{ "name": "Tempest-Facing Balcony", "underground": false, "endgame": false },
+	{ "name": "Temple Quarter", "underground": false, "endgame": false },
+	{ "name": "The First Step", "underground": false, "endgame": false },
+	{ "name": "The Four Belfries", "underground": false, "endgame": false },
+	{ "name": "The Ravine", "underground": false, "endgame": false },
+	{ "name": "Third Church of Marika", "underground": false, "endgame": false },
+	{ "name": "Tombsward", "underground": false, "endgame": false },
+	{ "name": "Tombsward Catacombs", "underground": false, "endgame": false },
+	{ "name": "Tombsward Cave", "underground": false, "endgame": false },
+	{ "name": "Underground Roadside", "underground": false, "endgame": false },
+	{ "name": "Unsightly Catacombs", "underground": false, "endgame": false },
+	{
+		"name": "Village of the Albinaurics",
+		"underground": false
+	},
+	{ "name": "Volcano Cave", "underground": false, "endgame": false },
+	{ "name": "Volcano Manor", "underground": false, "endgame": false },
+	{ "name": "War-Dead Catacombs", "underground": false, "endgame": false },
+	{ "name": "Warmaster's Shack", "underground": false, "endgame": false },
+	{ "name": "Waypoint Ruins Cellar", "underground": false, "endgame": false },
+	{ "name": "West Capital Rampart", "underground": false, "endgame": false },
+	{ "name": "Whiteridge Road", "underground": false, "endgame": false },
+	{ "name": "Windmill Heights", "underground": false, "endgame": false },
+	{ "name": "Windmill Village", "underground": false, "endgame": false },
+	{ "name": "Wyndham Catacombs", "underground": false, "endgame": false },
+	{ "name": "Yelough Anix Tunnel", "underground": false, "endgame": false },
+	{ "name": "Zamor Ruins", "underground": false, "endgame": false },
+	{ "name": "Across the Roots", "underground": true, "endgame": false },
+	{ "name": "Ainsel River Downstream", "underground": true, "endgame": false },
+	{ "name": "Ainsel River Main", "underground": true, "endgame": false },
+	{ "name": "Ainsel River Sluice Gate", "underground": true, "endgame": false },
+	{ "name": "Ainsel River Well Depths", "underground": true, "endgame": false },
+	{ "name": "Ancestral Woods", "underground": true, "endgame": false },
+	{ "name": "Aqueduct-Facing Cliffs", "underground": true, "endgame": false },
+
+	{ "name": "Below the Well", "underground": true, "endgame": false },
+	{ "name": "Deeproot Depths", "underground": true, "endgame": false },
+
+	{
+		"name": "Dynasty Mausoleum Entrance",
+		"underground": true,
+		"endgame": false
+	},
+	{
+		"name": "Dynasty Mausoleum Midpoint",
+		"underground": true,
+		"endgame": false
+	},
+	{ "name": "Grand Cloister", "underground": true, "endgame": false },
+	{ "name": "Great Waterfall Crest", "underground": true, "endgame": false },
+	{ "name": "Lake of Rot Shoreside", "underground": true, "endgame": false },
+	{ "name": "Night's Sacred Ground", "underground": true, "endgame": false },
+	{ "name": "Nokron, Eternal City", "underground": true, "endgame": false },
+	{
+		"name": "Nokstella Waterfall Basin",
+		"underground": true,
+		"endgame": false
+	},
+	{ "name": "Nokstella, Eternal City", "underground": true, "endgame": false },
+	{
+		"name": "Palace Approach Ledge-Road",
+		"underground": true,
+		"endgame": false
+	},
+	{ "name": "Root-Facing Cliffs", "underground": true, "endgame": false },
+	{ "name": "Siofra River Bank", "underground": true, "endgame": false },
+	{ "name": "Siofra River Well Depths", "underground": true, "endgame": false },
+	{
+		"name": "The Nameless Eternal City",
+		"underground": true,
+		"endgame": false
+	},
+	{ "name": "Worshippers Woods", "underground": true, "endgame": false },
+	{ "name": "East Capital Rampart", "underground": false, "endgame": true },
+	{ "name": "Leyndell, Capital of Ash", "underground": false, "endgame": true },
+	{ "name": "Queen's Bedchamber", "underground": false, "endgame": true },
+	{ "name": "Divine Bridge", "underground": false, "endgame": true }
+]
