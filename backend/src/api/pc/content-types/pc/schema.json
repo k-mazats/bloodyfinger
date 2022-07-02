@@ -1,0 +1,20 @@
+{
+  "kind": "collectionType",
+  "collectionName": "pcs",
+  "info": {
+    "singularName": "pc",
+    "pluralName": "pcs",
+    "displayName": "pc"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "try": {
+      "type": "component",
+      "repeatable": false,
+      "component": "try.try"
+    }
+  }
+}

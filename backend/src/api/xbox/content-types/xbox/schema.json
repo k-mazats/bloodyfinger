@@ -1,0 +1,20 @@
+{
+  "kind": "collectionType",
+  "collectionName": "xboxs",
+  "info": {
+    "singularName": "xbox",
+    "pluralName": "xboxs",
+    "displayName": "xbox"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "try": {
+      "type": "component",
+      "repeatable": false,
+      "component": "try.try"
+    }
+  }
+}
